@@ -1,0 +1,4 @@
+Hulk intelligence: 88
+Captain America intelligence: 69
+Thanos intelligence: 100
+Smart Hero: Thanos with intelligence score 100
